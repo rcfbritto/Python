@@ -1,5 +1,5 @@
 # Python
-Repositório dedicado à disciplina de Python, turma T2, do programa de Residência em Tecnologia
+Repositório dedicado à disciplina de Python do programa de Residência em Tecnologia
 
 - Discente: Rafaela Cristina Ferreira Brito
 - Email: rcfbritto@gmail.com
@@ -9,3 +9,4 @@ Repositório dedicado à disciplina de Python, turma T2, do programa de Residên
 Arquivo Pratica01.ipynb na branch Rafaela-Brito
 
 - Pratica-P02: Resolução dos exercícios da instrução prática 002.
+Arquivo Pratica02.ipynb na branch Rafaela-Brito-P02
